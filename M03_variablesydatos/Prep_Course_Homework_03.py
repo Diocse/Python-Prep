@@ -8,12 +8,17 @@
 # In[7]:
 
 
+Var = 8
+print (Var)
 
 
 # 2) Imprimir el tipo de dato de la constante 8.5
 
 # In[3]:
 
+
+
+type (8.5)
 
 
 
@@ -23,7 +28,7 @@
 # In[8]:
 
 
-
+type (Var)
 
 
 # 4) Crear una variable que contenga tu nombre
